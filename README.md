@@ -12,5 +12,11 @@ Hello, my name is <b>Evandro Cunha</b>.
 
 
 
-![snake gif](https://github.com/CunhaEvandro/CunhaEvandro/blob/output/github-contribution-grid-snake.svg)
+
+ 
+  ![Snake animation](https://github.com/cunhaEvandro/cunhaEvandro/blob/output/github-contribution-grid-snake.svg)
+ 
+
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=artur-debv&repo=artur-debv&theme=react)](https://github.com/cunhaEvandro/cunhaEvandro)
 
