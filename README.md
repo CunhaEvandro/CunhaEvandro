@@ -12,9 +12,5 @@ Hello, my name is <b>Evandro Cunha</b>.
 
 
 
-<img src="https://raw.githubusercontent.com/CunhaEvandro/CunhaEvandro/output/snake.svg" alt="Snake animation" />
-
-###
-
-
+![snake gif](https://github.com/CunhaEvandro/CunhaEvandro/blob/output/github-contribution-grid-snake.svg)
 
