@@ -18,5 +18,4 @@ Hello, my name is <b>Evandro Cunha</b>.
  
 
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=CunhaEvandrov&repo=artur-debv&theme=react)](https://github.com/cunhaEvandro/cunhaEvandro)
 
